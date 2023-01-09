@@ -4,7 +4,7 @@ This simple library adds abstract View and ViewModel with accepting and cancelin
 ### Getting started
 To user the library, clone the repo and install it with 
 ```
-maven install
+mvn install
 ```
 or install jar file manually from the releases page.
 
